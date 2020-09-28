@@ -6,4 +6,5 @@
   3. Ecep Jiyaul Rojak <br>
   
   
- <h3>Daftar Link : </h3>
+<h3>Daftar Link : </h3>
+1. Task 1 Report : https://github.com/ZhafranBahij/Task01-Project/blob/master/README.md
